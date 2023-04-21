@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+numpy==1.21.0
+opencv-python==4.5.4.58
+plotly==5.4.0
+scikit-learn==1.0.1
